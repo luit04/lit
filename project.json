@@ -6,7 +6,6 @@
             "Direct3D_SM60",
             "Direct3D_SM65",
             "ESSL_300",
-            "ESSL_310",
             "Metal"
         ],
         "merge_source": ["../-vanilla"],
