@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d28p1mxvfxkdn"
+path="res://.godot/imported/transmittance.glsl-b8b714f1c149c608a09dffd132e6a07c.res"
+
+[deps]
+
+source_file="res://shaders/transmittance.glsl"
+dest_files=["res://.godot/imported/transmittance.glsl-b8b714f1c149c608a09dffd132e6a07c.res"]
+
+[params]
+

@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "github.com/luit04",
+        "name": "lit",
+        "uuid": "60ce03fc-2400-43e0-a68b-a9e42488ac57",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 21, 40 ]
+    },
+    "modules": [
+        {
+            "description": "github.com/luit04",
+            "type": "resources",
+            "uuid": "5dd75c7b-41e3-4c5d-929a-6288747c3479",
+            "version": [1, 0, 0]
+        }
+    ]
+}

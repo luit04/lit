@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d1dqo40iestj8"
+path="res://.godot/imported/atlas.glsl-b98c0b5fbb7b7fc04874dc51b9d8fca6.res"
+
+[deps]
+
+source_file="res://shaders/atlas.glsl"
+dest_files=["res://.godot/imported/atlas.glsl-b98c0b5fbb7b7fc04874dc51b9d8fca6.res"]
+
+[params]
+
